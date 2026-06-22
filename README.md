@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">Js Full Stack</h3>
+<h3 align="left">Js | Full Stack</h3>
  </div>
 
 ###
